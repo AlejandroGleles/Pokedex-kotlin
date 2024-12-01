@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.gonzaga.pokedex"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.gonzaga.pokedex"
