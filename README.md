@@ -47,7 +47,7 @@ Gson: Manipulação de JSON.
 RecyclerView: Exibição da lista de Pokémons.
 Material Design: Interface moderna e responsiva.
 📷 Telas do Aplicativo
-Tela Principal
+
 ![Screenshot_2024-12-02-21-15-44-800_br gonzaga pokedex](https://github.com/user-attachments/assets/6cb9c373-53d7-487a-906a-8d3d4b416960)
 ![Screenshot_2024-12-02-21-15-58-372_br gonzaga pokedex](https://github.com/user-attachments/assets/5d1c0c7d-6830-4d15-b24e-55303b2ad2b6)
 
